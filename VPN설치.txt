@@ -1,0 +1,10 @@
+https://signin.aws.amazon.com/
+gs2004@naver.com
+Jalove2868*
+
+
+
+curl https://get.docker.com | sh
+curl https://github.com/Jigsaw-Code/outline-server/blob/master/src/server_manager/install_scripts/install_server.sh | sudo bash
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPb1VkVzRFUm5STFlmSzdZVXhRNG5a@43.200.33.13:63723/?outline=1
